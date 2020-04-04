@@ -1,2 +1,4 @@
 ./Api/database_reqs
 ./Api/__pycache__
+.gitignore
+
