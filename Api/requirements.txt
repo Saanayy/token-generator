@@ -1,0 +1,6 @@
+flask
+flask_pymongo
+bcrypt
+PyJWT
+dnspython
+datetime
